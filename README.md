@@ -25,10 +25,10 @@ Are you bored of reading or learning science from TextBooks? Here's STEMify for 
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br/>
--**Frontend:** HTML, CSS, Bootstrap, JavaScript
--**Backend:** PHP
--**DBMS:** MySQL
--**Webscraping:** Python, BeautifulSoup
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Backend:** PHP
+- **DBMS:** MySQL
+- **Webscraping:** Python, BeautifulSoup
 
 # Features
 - It displays a list of fun science experiments based on 4 categories namely - Physics, Maths, Biology and Mathematics.
