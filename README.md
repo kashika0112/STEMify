@@ -39,14 +39,14 @@ Are you bored of reading or learning science from TextBooks? Here's STEMify for 
 - *Home Page* <br/><br/>
 <img src = "https://github.com/kashika0112/STEMify/blob/main/img/Screenshot%20(241).png" width = 900, height = "500">
 
--*Subjects* <br/><br/>
+- *Subjects* <br/><br/>
 <img src = "https://github.com/kashika0112/STEMify/blob/main/img/Screenshot%20(242).png"  width = 900, height = "500">
 
--*Login-In and Register Pages* <br/><br/>
+- *Login-In and Register Pages* <br/><br/>
 <img src = "https://github.com/kashika0112/STEMify/blob/main/img/Screenshot%20(244).png" width = 450, height = "250">
 <img src = "https://github.com/kashika0112/STEMify/blob/main/img/Screenshot%20(245).png" width = 450, height = "250">
 
--*Add Proposal for Your Own Experiment* <br/><br/>
+- *Add Proposal for Your Own Experiment* <br/><br/>
 <img src="https://github.com/kashika0112/STEMify/blob/main/img/Screenshot%20(243).png" width = 900, height = "500">
 
 # Webscraping
