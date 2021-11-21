@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>STEMify</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Courgette&family=Gloria+Hallelujah&display=swap" rel="stylesheet">
+    <link href="css/common.css" rel="stylesheet" />
+    <link href="css/home.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="header sticky-top">
+        <nav class="navbar navbar-expand-md navbar-light">
+            <a class="navbar-brand" href="home.html">
+                <img src="img/logo.jpg" />
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#my-navbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="my-navbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="register.php" data-toggle="modal" data-target="#signup-modal">
+                            <i class="fas fa-user"></i>Signup
+                        </a>
+                    </li>
+                    <div class="nav-vl"></div>
+                    <li class="nav-item">
+                        <a class="nav-link" href="login.php" data-toggle="modal" data-target="#login-modal">
+                            <i class="fas fa-sign-in-alt"></i>Login
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    
+    <div class = "homebg">
+        <img src = "img/header4.jpg" style="width:100%; height: 700px; filter: brightness(50%);">
+        <div class="text">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="img/logo_withoutbg.png" style="width:150px; height: 150px;">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>STEMify - Your Fun Partner!</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h2>A place where Science is absorbed with amusement and Brightens Your mind. . . </h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <button class="btn btn-outline-secondary btn-lg"><a href="#subjects">Read Experiment</button></a>
+                    <button class="btn btn-outline-secondary btn-lg"><a href="add_exp.php">Add Experiment</button></a>
+                </div>
+            </div>
+            
+        </div>
+        
+    </div>
+
+    <div id="loading">
+    </div>
+
+    
+        <div class = "subjects" id="subjects">
+            <h1>Subjects</h1>
+            <div class = "row">
+                <div class ="col-md-3">
+                    <div class = "subject-border">
+                        <a href = "exp_Physics.html">
+                            <img src="img/physics.png"style="width:150px; height: 150px; border-radius: 50%;">
+                        </a>
+                        <p>Physics</p>
+                    </div>
+                </div>
+                <div class ="col-md-3">
+                    <div class = "subject-border">
+                        <a href = "property_list.html">
+                            <img src="img/chemistry.jpg"style="width:150px; height: 150px; border-radius: 50%;">
+                        </a>
+                        <p>Chemistry</p>
+                    </div>
+                    
+                </div>
+                <div class ="col-md-3">
+                    <div class = "subject-border">
+                        <a href = "#">
+                            <img src="img/biology.jpg"style="width:150px; height: 150px; border-radius: 50%;">
+                        </a>
+                        <p>Biology</p>
+                    </div>
+                   
+                </div>
+                <div class ="col-md-3">
+                    <div class = "subject-border">
+                        <a href = "#">
+                            <img src="img/maths.jpg"style="width:150px; height: 150px; border-radius: 50%;">
+                        </a>
+                        <p>Mathematics</p>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    
+        <div class="footer">
+            <div class="page-container footer-container">
+                <div class="footer-subjects">
+                    <div class="footer-subject">
+                        <a href="">Experiments in Physics</a>
+                    </div>
+                    <div class="footer-subject">
+                        <a href="">Experiments in Chemistry</a>
+                    </div>
+                    <div class="footer-subject">
+                        <a href="">Experiments in Biology</a>
+                    </div>
+                    <div class="footer-subject">
+                        <a href="">Experiments in Mathematics</a>
+                    </div>
+                </div>
+                <div class="footer-copyright">© 2020 Copyright PG Life </div>
+            </div>
+        </div>
+    
+    
+</body>
+</html>

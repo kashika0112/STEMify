@@ -1,0 +1,40 @@
+.user-name{
+    font-weight: bold;
+}
+
+.profile{
+    margin: 70px 100px 70px 100px;
+    padding: 50px 100px 100px 100px;
+    border: solid 1px rgb(14, 13, 13);
+    display : flex;
+    flex-direction: column;
+}
+
+.profile_title{
+    margin-left: 10%;
+}
+.profile-pic
+{
+    margin-left: 27%;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border : solid 1px wheat;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50%;
+}
+
+.text
+{
+    margin-left: 5%;
+}
+
+.Information
+{
+    margin-top: 7%;
+}
+
+.Edit
+{
+    margin-left: 70%;
+}
